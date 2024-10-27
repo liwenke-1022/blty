@@ -1,1 +1,1 @@
-FROM zilliz/attu:latest
+FROM tomcat:latest
