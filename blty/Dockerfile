@@ -1,1 +1,1 @@
-FROM tomcat:latest
+FROM jenkins:latest
