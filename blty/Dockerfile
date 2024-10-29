@@ -1,1 +1,1 @@
-FROM nginx:1.24
+FROM nginx:1.26
